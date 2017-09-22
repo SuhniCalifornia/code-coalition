@@ -1,0 +1,22 @@
+// Classic Spectrum --------------------------------------------------------
+
+$red:      #FF0000; // HSL:   0° 100%  50%  RGB: 255    0    0 Hex: #FF0000
+$orange:   #FF8000; // HSL:  30° 100%  50%  RGB: 255  128    0 Hex: #FF8000
+$yellow:   #FFFF00; // HSL:  60° 100%  50%  RGB: 255  255    0 Hex: #FFFF00
+$green:    #00FF00; // HSL: 120° 100%  50%  RGB:   0  255    0 Hex: #00FF00
+$blue:     #0000FF; // HSL: 240° 100%  50%  RGB:   0    0  255 Hex: #0000FF
+$purple:   #AA00FF; // HSL: 280° 100%  50%  RGB: 170    0  255 Hex: #AA00FF
+
+// Cyan Magenta Yellow Key (cmyk) ------------------------------------------
+
+$cyan:      #00FFFF; // HSL: 180° 100%  50%  RGB:   0  255 255 Hex: #00FFFF
+$magenta:   #FF00FF; // HSL: 300° 100%  50%  RGB: 255    0 255 Hex: #FF00FF
+$yellow:    #FFFF00; // HSL:  60° 100%  50%  RGB: 255  255   0 Hex: #FFFF00
+$key:       #000000; // HSL:   0°   0%   0%  RGB:   0    0   0 Hex: #000000
+
+// Red Green Blue (rgb) ----------------------------------------------------
+
+$red:       #FF0000; // HSL:   0° 100%  50%  RGB: 255   0   0  Hex: #FF0000
+$green:     #00FF00; // HSL: 120° 100%  50%  RGB:   0 255   0  Hex: #00FF00
+$blue:      #0000FF; // HSL: 240° 100%  50%  RGB:   0   0 255  Hex: #0000FF
+
